@@ -117,7 +117,8 @@ Distributed under the GNU General Public License v3.0. Please see `LICENSE` for 
 
 > [!IMPORTANT]
 > Please click [here](https://pubmlst.org/organisms/streptococcus-pneumoniae/pgl) to access more information about life identification number (LIN) codes. Additional information about how PubMLST deals with LINcodes can be found [here - BIGSdb documentation chapter 5.24](https://readthedocs.org/projects/bigsdb/downloads/pdf/latest/).
-> Quality control (QC) of genome sequence data is vital for robust analyses. Please see the pre-print publication in [*bioRxiv](https://www.biorxiv.org/content/10.1101/2023.12.19.571883v1) (and Supplementary Data Table 2 in particular) for details about the QC metrics derived from the analysis of the PGL genomes.
+>
+> Quality control (QC) of genome sequence data is vital for robust analyses. Please see the pre-print publication in [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.12.19.571883v1) (and Supplementary Data Table 2 in particular) for details about the QC metrics derived from the analysis of the PGL genomes.
 # Contact
 If you have any queries, suggestions or concerns, please contact [Professor Angela Brueggemann](mailto:angela.brueggemann@ndph.ox.ac.uk).  
 

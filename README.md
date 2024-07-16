@@ -24,7 +24,7 @@ This repository contains the code used to run analyses and generate figures for 
 >The manuscript is still under review, therefore the link goes to a blank page but this will be updated once the paper is published. 
 
 > [!NOTE]  
-> This repository contains modified code from the original repository that accompanied the pre-print publication in [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.12.19.571883v1). The original repository and code was authored by [Duncan Berger](https://github.com/duncanberger). To view the original repository, please click on the following links:
+> This repository contains modified code from the original repository that accompanied the pre-print publication in [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.12.19.571883v1). The original repository and code was authored by [Duncan Berger](https://github.com/duncanberger). To view the original repository, please click on the following links:
 > |[Brueggemann Lab Repository (forked from Duncan Berger)](https://github.com/brueggemann-lab/PGL_cgMLST) | [Duncan Berger's Repository](https://github.com/duncanberger/PGL_cgMLST)|
 > |-------------------------------------------------------------------------------------|-------------------------------------------------------------------------|   
 
@@ -118,9 +118,9 @@ Distributed under the GNU General Public License v3.0. Please see `LICENSE` for 
 > [!IMPORTANT]
 > Please click [here](https://pubmlst.org/organisms/streptococcus-pneumoniae/pgl) to access more information about life identification number (LIN) codes. Additional information about how PubMLST deals with LINcodes can be found [here - BIGSdb documentation chapter 5.24](https://readthedocs.org/projects/bigsdb/downloads/pdf/latest/).
 >
-> Quality control (QC) of genome sequence data is vital for robust analyses. Please see the pre-print publication in [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.12.19.571883v1) (and Supplementary Data Table 2 in particular) for details about the QC metrics derived from the analysis of the PGL genomes.
+> Quality control (QC) of genome sequence data is vital for robust analyses. Please see the pre-print publication in [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.12.19.571883v1) (and _Supplementary Data Table 2_ in particular) for details about the QC metrics derived from the analysis of the PGL genomes.
 # Contact
-If you have any queries, suggestions or concerns, please contact [Professor Angela Brueggemann](mailto:angela.brueggemann@ndph.ox.ac.uk).  
+If you have any queries, suggestions or concerns, please contact [Angela Brueggemann](mailto:angela.brueggemann@ndph.ox.ac.uk).  
 
 |Repository `PUBLIC` status since: 30/05/2024|
 |--------------------------------------------|

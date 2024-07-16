@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 ![](https://img.shields.io/badge/Repository_created:-29_May_2024-green)
-![](https://img.shields.io/badge/Last_update:-30_May_2024-black)
+![](https://img.shields.io/badge/Last_update:-16_July_2024-black)
 ![](https://img.shields.io/badge/PUBLIC-green)
 
 <p align="center">
@@ -116,7 +116,8 @@ Distributed under the GNU General Public License v3.0. Please see `LICENSE` for 
 >**Reference**: Jansen van Rensburg MJ, Berger DJ, Fohrmann A, Bray JE, Jolley KA, Maiden MC, Brueggemann AB. Development of the Pneumococcal Genome Library, a core genome multilocus sequence typing scheme, and a taxonomic life identification number barcoding system to investigate and define pneumococcal population structure. bioRxiv. 2023:2023-12.  
 
 > [!IMPORTANT]
-> Please click [here](https://pubmlst.org/organisms/streptococcus-pneumoniae/pgl) to access more information about life identification number (LIN) codes. Additional information about how pubMLST deals with LINcodes can be found [here - BIGSdb documentation chapter 5.24](https://readthedocs.org/projects/bigsdb/downloads/pdf/latest/).
+> Please click [here](https://pubmlst.org/organisms/streptococcus-pneumoniae/pgl) to access more information about life identification number (LIN) codes. Additional information about how PubMLST deals with LINcodes can be found [here - BIGSdb documentation chapter 5.24](https://readthedocs.org/projects/bigsdb/downloads/pdf/latest/).
+> Quality control (QC) of genome sequence data is vital for robust analyses. Please see the pre-print publication in [*bioRxiv](https://www.biorxiv.org/content/10.1101/2023.12.19.571883v1) (and Supplementary Data Table 2 in particular) for details about the QC metrics derived from the analysis of the PGL genomes.
 # Contact
 If you have any queries, suggestions or concerns, please contact [Professor Angela Brueggemann](mailto:angela.brueggemann@ndph.ox.ac.uk).  
 

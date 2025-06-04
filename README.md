@@ -16,12 +16,12 @@
 
 # Overview
 This repository originally contained code to run analyses and generate figures for the:  
-<a href=https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001280>Pneumococcal Genome Library cgMLST Typing Scheme manuscript</a>
+<a href=https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001280>Pneumococcal Genome Library cgMLST Typing Scheme Manuscript</a>
 </p>  
 The same codebase was later adapted to accommodate analyses and create figures for two additional manuscripts:
 
-<a href=https://www.biorxiv.org/content/10.1101/2025.03.29.646111v1>*S. aureus* cgMLST Typing Scheme manuscript</a>  
- <a href=https://www.biorxiv.org/content/10.1101/2025.04.30.651387v1>*M. catarrhalis* cgMLST Typing Scheme manuscript</a>
+<a href=https://www.biorxiv.org/content/10.1101/2025.03.29.646111v1>*S. aureus* cgMLST Typing Scheme Manuscript</a>  
+ <a href=https://www.biorxiv.org/content/10.1101/2025.04.30.651387v1>*M. catarrhalis* cgMLST Typing Scheme Manuscript</a>
 
 
 
@@ -122,7 +122,7 @@ clust2-->Figures;
 |[*bioRxiv* 2025](https://www.biorxiv.org/content/10.1101/2025.03.29.646111v1)|![doi](https://img.shields.io/badge/DOI-https://doi.org/10.1101/2025.03.29.646111-blue)| 
 |[*bioRxiv* 2025](https://www.biorxiv.org/content/10.1101/2025.04.30.651387v1)|![doi](https://img.shields.io/badge/DOI-https://doi.org/10.1101/2025.04.30.651387-blue)|  
 >[!TIP]
-Useful Links for LINcodes
+**Useful Links for LINcodes**
 >
 >Below are helpful resources to learn more about LINcodes (Life Identification Numbers):   
 >https://pubmed.ncbi.nlm.nih.gov/35700230/  
